@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image.qml</file>
+        <file>ListV.qml</file>
+        <file>image/1.jpg</file>
+        <file>image/2.jpg</file>
+        <file>Rectangle.qml</file>
+        <file>QCircle.qml</file>
+        <file>Repeater.qml</file>
+        <file>Loader.qml</file>
+        <file>QText.qml</file>
+        <file>Text.qml</file>
+        <file>Keyhandling.qml</file>
+    </qresource>
+</RCC>

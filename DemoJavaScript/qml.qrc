@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CommonFunc.js</file>
+        <file>image/sound.png</file>
+        <file>image/Red_On.png</file>
+        <file>image/Red_Off.png</file>
+        <file>image/mute.png</file>
+        <file>image/Green_On.png</file>
+        <file>image/Green_Off.png</file>
+        <file>factorial.js</file>
+        <file>DemoJavaScript3.qml</file>
+        <file>DemoJavaScript2.qml</file>
+        <file>DemoJavaScript.qml</file>
+        <file>DemoJavaScript.js</file>
+        <file>DelegateContent2.qml</file>
+        <file>DelegateContent.qml</file>
+        <file>DemoJavaScript4.qml</file>
+        <file>DemoDynamicCreateCom.qml</file>
+        <file>componentCreation.js</file>
+        <file>Sprite.qml</file>
+    </qresource>
+</RCC>
